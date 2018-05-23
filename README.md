@@ -13,7 +13,7 @@
 
 ```sh
 # Using npm
-npm install --save git-url-parse
+npm install --save git-url-parseasdfsd
 
 # Using yarn
 yarn add git-url-parse
